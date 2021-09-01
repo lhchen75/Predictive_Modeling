@@ -406,4 +406,4 @@ rmse5
 # adj R^2 = 0.315
 # no great improvement compared to model 1
 
-### final result: Choose m2, the one with interaction terms.
+### final result: Choose m2, the one with interaction terms. 
